@@ -24,4 +24,4 @@ Repositori ini digunakan untuk mengorganisir, menyimpan, dan membagikan informas
 1. Abdulhadi
 2. Ilham Maulana
 3. Muhammad Faiz Bintang Pratama
-4. d
+4. Muhammad Andi Setyarahman
